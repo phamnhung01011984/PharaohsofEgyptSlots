@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Company xxx** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our game.
+**Company Pharaoh Play** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our game.
 
 **1. Information We Collect**
 
