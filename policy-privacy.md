@@ -1,51 +1,93 @@
-# Privacy Policy
+#   Privacy Policy - Pharaoh Play
 
-**Company Pharaoh Play** ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share information when you use our game.
+##   1.  Introduction
 
-**1. Information We Collect**
+Welcome to Pharaohs of Egypt Slots, developed by Pharaoh Play. We are committed to protecting your privacy and ensuring a safe and enjoyable gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you interact with our mobile game. This policy applies to users aged 18 and over.
+
+##   2.  Information We Collect
 
 We may collect the following types of information:
 
-* **Information you provide directly:**
-    * When you create an account, we may collect your username and email address.
-    * If you contact us for support, we may collect your name, email address, and any information you provide in your message.
-* **Automatically collected information:**
-    * We may collect information about your device, such as device type, operating system, and unique device identifiers.
-    * We may collect information about your gameplay, such as your progress, scores, and interactions with other players.
-    * We may collect IP Address information.
+* **Device Information:**
+    * Device model, operating system, and unique device identifiers (e.g., Android Advertising ID or IDFA).
+    * Information about your device's internet connection.
+* **Game Data:**
+    * Gameplay progress, scores, achievements, and interactions within our game.
+    * Information about in-app purchases.
+* **Analytics Data:**
+    * Data about how you use our game, including frequency of use and feature usage.
+    * Information about app crashes and errors.
+* **Advertising Data:**
+    * Information used for personalized advertising, including advertising IDs.
+* **Social Data (if applicable):**
+    * If you connect through social media platforms, we may collect basic profile information as permitted by your social media settings.
+* **Chat Data (if applicable):**
+    * If you use our chat feature, we may collect and store the messages you send and receive.
 
-**2. How We Use Your Information**
+##   3.  How We Use Your Information
 
-We may use your information for the following purposes:
+We use your information for the following purposes:
 
-* To provide and improve our game.
-* To personalize your experience.
-* To respond to your inquiries and provide support.
-* To send you updates and notifications.
-* To help protect the safety and integrity of the user base.
+* **To Provide and Improve Our Game:**
+    * To deliver and maintain our game.
+    * To personalize your gaming experience.
+    * To analyze and improve game performance and features.
+* **To Display Advertising:**
+    * To show targeted advertisements.
+    * To measure the effectiveness of our advertising campaigns.
+* **To Communicate with You:**
+    * To respond to your support requests.
+    * To send you game updates and notifications.
+* **To Enable Social Features (if applicable):**
+    * To allow you to connect and interact with other players.
+* **To Ensure Safety and Security:**
+    * To prevent fraud and protect our users.
+    * To comply with legal obligations.
 
-**3. Sharing Your Information**
+##   4.  Third-Party Services
 
 We may share your information with:
 
-* Third-party service providers who assist us with game development, hosting, and support.
-* Law enforcement or other government agencies if required by law.
+* **Third-Party Service Providers:**
+    * For analytics, advertising, and other services that help us operate our game. These providers may have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+* **Advertising Partners:**
+    * To deliver targeted advertisements.
+* **Social Media Platforms (if applicable):**
+    * If you choose to connect your social media account to our game.
+* **Legal Authorities:**
+    * When required by law or to protect our rights.
 
-**4. Data Security**
+##   5.  Simulated Gambling Disclaimer
 
-We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure.
+Please note that Pharaohs of Egypt Slots is a simulated casino game. No real money gambling is involved, and there is no opportunity to win real money or prizes.
 
-**5. Children's Privacy**
+##   6.  Data Security
 
-Our game is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us at phamnhung.01011984@gmail.com.
+We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. These measures include encryption, firewalls, and secure server facilities. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-**6. Changes to this Privacy Policy**
+##   7.  Children’s Privacy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+Our game is intended for users aged 18 and over. We do not knowingly collect personal information from individuals under the age of 18. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take steps to delete such information.
 
-**7. Contact Us**
+##   8.  Your Rights
+
+You may have certain rights regarding your personal information, depending on your jurisdiction. These rights may include:
+
+* **Access and Correction:** You may have the right to request access to and correction of your personal information.
+* **Opt-Out of Targeted Advertising:** You can limit ad tracking through your device settings.
+* **Data Deletion:** You may have the right to request the deletion of your personal data, subject to certain exceptions.
+* **Withdraw Consent:** If we are processing your personal information based on your consent, you may have the right to withdraw your consent at any time.
+
+To exercise these rights, please contact us using the information provided in the "Contact Us" section below.
+
+##   9.  Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy within the game or through other reasonable means. Your continued use of the game after the effective date of the revised Privacy Policy constitutes your acceptance of the changes.
+
+##   10. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-phamnhung.01011984@gmail.com
+* Email: phamnhung01011984@gmail.com
 
+Thank you for playing Pharaohs of Egypt Slots!
